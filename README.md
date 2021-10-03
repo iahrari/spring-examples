@@ -11,7 +11,7 @@ Based on [spring5-mvc-rest](https://github.com/springframeworkguru/spring5-mvc-r
 - Spring data jpa with h2 database
 - Using OpenApi (Swagger) for rest api documentation
 
-### **[Spring Rest With webflux](/spring%webflux%20rest)**
+### **[Spring Rest With webflux](/spring%20webflux%20rest)**
 Based on [spring5-webflux-rest](https://github.com/springframeworkguru/spring5-webflux-rest). some of the topics and tools can be seen in this project:
 - Rest api with webflux
 - Persisting data with reactive mongodb driver
