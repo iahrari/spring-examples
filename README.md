@@ -4,7 +4,7 @@ Simple Spring boot framework examples based on `Spring framework 5: beginners to
 List of projects and some of the topics and tools can be seen in these project:
 
 ### **[Spring Rest MVC](/spring%20rest%20mvc)**
-Based on [spring5-mvc-rest](https://github.com/springframeworkguru/spring5-mvc-rest). some of the topics and tools can be seen in this project:
+Based on [spring5-mvc-rest](https://github.com/springframeworkguru/spring5-mvc-rest). 
 - Rest api with Spring mvc
 - Using mapstruct for object type conversion
 - Using project lombok
@@ -12,7 +12,7 @@ Based on [spring5-mvc-rest](https://github.com/springframeworkguru/spring5-mvc-r
 - Using OpenApi (Swagger) for rest api documentation
 
 ### **[Spring Rest With webflux](/spring%20webflux%20rest)**
-Based on [spring5-webflux-rest](https://github.com/springframeworkguru/spring5-webflux-rest). some of the topics and tools can be seen in this project:
+Based on [spring5-webflux-rest](https://github.com/springframeworkguru/spring5-webflux-rest).
 - Rest api with webflux
 - Persisting data with reactive mongodb driver
 - Using reactive programming
